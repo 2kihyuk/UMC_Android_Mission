@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home_pannel_album_singer_tv" type="id" />
+    <item name="home_pannel_album_title_tv" type="id" />
+    <item name="home_pannel_album_info_tv" type="id" />
+    <item name="home_pannel_album_img_iv" type="id" />
+    <item name="home_pannel_btn_play_iv" type="id" />
+    <item name="home_pannel_title_tv" type="id" />
+    <item name="home_pannel_btn_setting_iv" type="id" />
+    <item name="home_pannel_btn_ticket_iv" type="id" />
+    <item name="home_pannel_btn_nugu_iv" type="id" />
+    <item name="home_pannel_background_iv" type="id" />
+</resources>
