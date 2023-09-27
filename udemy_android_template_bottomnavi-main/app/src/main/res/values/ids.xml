@@ -10,4 +10,27 @@
     <item name="home_pannel_btn_ticket_iv" type="id" />
     <item name="home_pannel_btn_nugu_iv" type="id" />
     <item name="home_pannel_background_iv" type="id" />
+    <item name="album_like_iv" type="id" />
+    <item name="album_more_iv" type="id" />
+    <item name="album_lp_iv" type="id" />
+    <item name="album_music_title_info_tv" type="id" />
+    <item name="album_album_iv" type="id" />
+    <item name="linearLayout4" type="id" />
+    <item name="album_line_view" type="id" />
+    <item name="song_mix_layout" type="id" />
+    <item name="song_mix_tv" type="id" />
+    <item name="song_mixoff_tg" type="id" />
+    <item name="song_mixon_tg" type="id" />
+    <item name="song_all_select_iv" type="id" />
+    <item name="song_all_select_tv" type="id" />
+    <item name="song_all_listen_iv" type="id" />
+    <item name="song_all_listen_tv" type="id" />
+    <item name="song_music_list_layout" type="id" />
+    <item name="song_lalac_layout" type="id" />
+    <item name="song_more_06_iv" type="id" />
+    <item name="song_play_06_iv" type="id" />
+    <item name="song_singer_name_06_tv" type="id" />
+    <item name="song_music_title_06_tv" type="id" />
+    <item name="song_list_order_06_tv" type="id" />
+    <item name="song_sing_layout" type="id" />
 </resources>

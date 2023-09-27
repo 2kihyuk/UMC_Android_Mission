@@ -18,6 +18,11 @@ class HomeFragment : Fragment() {
     ): View? {
         binding = FragmentHomeBinding.inflate(inflater, container, false)
 
+        binding.homePannelPlaylistImgIv.setOnClickListener {
+            (context as MainActivity).supportFragmentManager.beginTransaction().replace(R.id.main_frm,AlbumFragment()).commitAllowingStateLoss()
+            //homefragment.xml의 homepaneelplaylistimgiv를 클릭시에 위의 과정을 통해서 main_frm 의 id를 가진 메인액티비티의 메인 프레임을 fragmentAlbum.xml 프래그먼트전환
+        }
+
         return binding.root
     }
 }
