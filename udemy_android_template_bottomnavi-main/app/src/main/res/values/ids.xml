@@ -33,4 +33,43 @@
     <item name="song_music_title_06_tv" type="id" />
     <item name="song_list_order_06_tv" type="id" />
     <item name="song_sing_layout" type="id" />
+    <item name="album_content_vp" type="id" />
+    <item name="album_content_tb" type="id" />
+    <item name="fragment_locker_restore_content_tb" type="id" />
+    <item name="fragment_content_vp" type="id" />
+    <item name="fragment_locker_songfile_tv" type="id" />
+    <item name="fragment_locker_restore_song_tv" type="id" />
+    <item name="fragment_locker_login_tv" type="id" />
+    <item name="fragment_locker_restore_tv" type="id" />
+    <item name="song_list_order_01_tv" type="id" />
+    <item name="song_list_title_01_tv" type="id" />
+    <item name="song_music_title_01_tv" type="id" />
+    <item name="song_singer_name_01_tv" type="id" />
+    <item name="song_play_01_iv" type="id" />
+    <item name="song_more_01_iv" type="id" />
+    <item name="song_flu_layout" type="id" />
+    <item name="song_list_order_02_tv" type="id" />
+    <item name="song_music_title_02_tv" type="id" />
+    <item name="song_singer_name_02_tv" type="id" />
+    <item name="song_play_02_iv" type="id" />
+    <item name="song_more_02_iv" type="id" />
+    <item name="song_coin_layout" type="id" />
+    <item name="song_list_order_03_tv" type="id" />
+    <item name="song_list_title_03_tv" type="id" />
+    <item name="song_music_title_03_tv" type="id" />
+    <item name="song_singer_name_03_tv" type="id" />
+    <item name="song_play_03_iv" type="id" />
+    <item name="song_more_03_iv" type="id" />
+    <item name="song_spring_layout" type="id" />
+    <item name="song_list_order_04_tv" type="id" />
+    <item name="song_music_title_04_tv" type="id" />
+    <item name="song_singer_name_04_tv" type="id" />
+    <item name="song_play_04_iv" type="id" />
+    <item name="song_more_04_iv" type="id" />
+    <item name="song_celebrity_layout" type="id" />
+    <item name="song_list_order_05_tv" type="id" />
+    <item name="song_music_title_05_tv" type="id" />
+    <item name="song_singer_name_05_tv" type="id" />
+    <item name="song_play_05_iv" type="id" />
+    <item name="song_more_05_iv" type="id" />
 </resources>
