@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("Song",song.title + song.singer)
 
     }
-
+    //commit
     private fun initBottomNavigation(){
 
         supportFragmentManager.beginTransaction()
