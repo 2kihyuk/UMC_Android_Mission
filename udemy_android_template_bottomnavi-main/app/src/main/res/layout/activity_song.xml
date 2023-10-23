@@ -150,14 +150,17 @@
 
     </LinearLayout>
 
-    <View
+    <SeekBar
         android:id="@+id/song_progressbar_backgroud_view"
         android:layout_width="match_parent"
-        android:layout_height="2dp"
+        android:layout_height="3dp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="15dp"
         android:layout_marginEnd="20dp"
         android:background="@color/gray_color"
+        android:max="10000"
+        android:progress="0"
+
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/song_like_iv_layout" />
