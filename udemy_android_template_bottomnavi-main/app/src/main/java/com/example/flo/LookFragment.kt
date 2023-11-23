@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.TableLayout
 import androidx.fragment.app.Fragment
 import com.example.flo.databinding.FragmentLookBinding
 
@@ -17,6 +18,7 @@ class LookFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         binding = FragmentLookBinding.inflate(inflater, container, false)
+
 
         return binding.root
     }
